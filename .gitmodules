@@ -1,3 +1,4 @@
 [submodule "mix-coding.github.io"]
 	path = mix-coding.github.io
 	url = git@github.com:mix-coding/mix-coding.github.io.git
+	ignore = dirty
